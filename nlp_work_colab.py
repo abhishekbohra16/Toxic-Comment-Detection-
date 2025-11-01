@@ -14,6 +14,9 @@ Original file is located at
 from google.colab import drive
 import pandas as pd
 
+# Dataset: Kaggle Toxic Comment Classification
+# Download the CSV from: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+# Replace 'path_to_dataset.csv' below with the path to the downloaded CSV
 df = pd.read_csv("path_to_dataset.csv")
 
 # Mount Drive
