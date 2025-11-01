@@ -47,7 +47,7 @@ The dataset contains user comments labeled as **toxic, insulting, obscene, threa
 - Python
 - Pandas
 - Matplotlib
-- 
+- Sklearn
 - Jupyter Notebook
 
 *(More ML libraries will be added in the next phase)*
