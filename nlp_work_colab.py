@@ -14,6 +14,8 @@ Original file is located at
 from google.colab import drive
 import pandas as pd
 
+df = pd.read_csv("path_to_dataset.csv")
+
 # Mount Drive
 drive.mount('/content/drive', force_remount=True)
 
